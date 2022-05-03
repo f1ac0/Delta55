@@ -7,6 +7,7 @@
   (title_block
     (title "DeltaDore Delta 55 regulateur")
     (date "2022-04-11")
+    (comment 1 "https://github.com/f1ac0/Delta55")
   )
 
   (lib_symbols
@@ -1810,7 +1811,7 @@
 
   (no_connect (at 168.91 187.96) (uuid 1ecd55c5-20c1-47e0-816b-f8ea3bab2d54))
   (no_connect (at 194.31 334.01) (uuid 89fa6ae9-d82b-496b-9f15-25d6bee56d23))
-  (no_connect (at 189.23 334.01) (uuid 89fa6ae9-d82b-496b-9f15-25d6bee56d23))
+  (no_connect (at 189.23 334.01) (uuid 89fa6ae9-d82b-496b-9f15-25d6bee56d24))
   (no_connect (at 170.18 87.63) (uuid b6d9b254-3bb1-4d79-b79b-82d3c3666412))
   (no_connect (at 203.2 149.86) (uuid cc55bf8f-d3a8-4da6-a5f8-64c109c81511))
 
